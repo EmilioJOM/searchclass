@@ -1,0 +1,1 @@
+aula/ID;claseMañana;profesoresMañana;claseTarde;profesoresTarde;claseNoche;profesoresNoche;extra1;profesoresExtra1;extra2;profesoresExtra2

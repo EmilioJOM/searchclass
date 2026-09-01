@@ -1,0 +1,19 @@
+# radar.py
+
+lista = readtxt(lista_de_aulas.txt)
+
+
+for salon in lista:
+	output = analyser(aula) 
+	# devuelve turno mañana,tarde y noche (+ examenes entre turnos)
+
+	guardar_txt(output,"diadesemana") # ej: lunes
+
+
+
+# manager.py
+
+while (input != exit):
+	buscar_materia("materia"+input)
+	buscar_aula("aula"+input)
+	aulas_registrados(input)

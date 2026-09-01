@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+BBDD/Lunes.csv
+BBDD/Martes.csv
+BBDD/Miercoles.csv
+BBDD/Jueves.csv
+BBDD/Viernes.csv
+BBDD/Sabado.csv
+BBDD/Domingo.csv
